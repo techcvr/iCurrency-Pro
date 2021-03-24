@@ -12,7 +12,7 @@ There are two types of AIA available right now, Free version and Pro version, on
 ![image](https://user-images.githubusercontent.com/55651803/111732548-b69d4280-889b-11eb-98be-f599a3a60be7.png)
 
 ### Resources
-<a href="https://cdn.discordapp.com/attachments/605374585801801728/610845195684151296/TextLocalSMSOTP.aia">Download Free AIA</a> | <a href="https://cdn.discordapp.com/attachments/605374585801801728/639559449681330196/Currency_Converter.apk">Try Demo App (Free) </a>
+<a href="https://cdn.discordapp.com/attachments/605374585801801728/639463019243634688/Currency_Converter_Free.aia">Download Free AIA</a> | <a href="https://cdn.discordapp.com/attachments/605374585801801728/639559449681330196/Currency_Converter.apk">Try Demo App (Free) </a>
 
 <a href="https://rzp.io/l/85o2d9mSjS" target="_blank">Buy Pro AIA (Rs. 200)</a> | <a href="https://cdn.discordapp.com/attachments/605374585801801728/639826918945980426/CurrencyConverterPro.apk">Try Demo App (Pro) </a>
 
